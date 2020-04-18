@@ -1,2 +1,2 @@
-This is just for fun!!!
+This line updated by master
 Let's update this file again
